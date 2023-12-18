@@ -80,6 +80,5 @@ The game logic: :game_die:
 - After the game ends, the user can choose to play again or return to the menu.
 - The game score is saved in the Arduino EEPROM memory and can be reset from the menu.
 
+Setup: [Photo](https://github.com/BetJohn/Bomberman-Arduino-Project/blob/main/Setup.jpg)
 Link to Youtube [here](https://youtu.be/nqE6tAQueuo)
-
-# Setup: [Photo]("https://github.com/BetJohn/Bomberman-Arduino-Project/blob/main/Setup.jpg")
