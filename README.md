@@ -65,3 +65,30 @@ The Arduino Bomberman Game is a classic Bomberman-style game implemented on an A
 
 - The game offers various configuration options, including LCD brightness and highscore reset.
 
+## How it Works :bulb:
+
+The game is implemented using the Arduino Uno microcontroller. The Arduino sketch (bomberman.ino) contains the code for the game logic, which is executed on the Arduino board. The game uses various components, including a joystick, a matrix LED display, and an LCD screen, to create an interactive gaming experience.
+
+The menu logic: :menu:
+
+- The menu is displayed on the LCD screen.
+- The user can navigate through the menu using the joystick.
+- The user can select an option by pressing the joystick button.
+- The menu options include:
+  - Start Game
+  - Reset Highscore
+  - Change LCD Brightness
+  - About
+  - How to Play
+  - Reset Highscore
+
+The game logic: :game_die:
+
+- The game is displayed on the matrix LED display.
+- The user can navigate through the matrix using the joystick.
+- The user can place bombs by pressing the joystick button.
+- The game ends when the player is caught in a bomb explosion or when the entire terrain is cleared.
+- The game score is displayed on the LCD screen.
+- After the game ends, the user can choose to play again or return to the menu.
+- The game score is saved in the Arduino EEPROM memory and can be reset from the menu.
+
