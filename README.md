@@ -82,4 +82,4 @@ The game logic: :game_die:
 
 Link to Youtube [here](https://youtu.be/nqE6tAQueuo)
 
-[Setup]: [Photo]("https://github.com/BetJohn/Bomberman-Arduino-Project/blob/main/Setup.jpg")
+# Setup: [Photo]("https://github.com/BetJohn/Bomberman-Arduino-Project/blob/main/Setup.jpg")
