@@ -1,7 +1,5 @@
 # Arduino Bomberman Game :bomb: :video_game: :joystick: :computer:
 
-[Setup]: [Photo]("https://github.com/BetJohn/Bomberman-Arduino-Project/blob/main/Setup.jpg")
-
 ## Description :page_facing_up:
 
 The Arduino Bomberman Game is a classic Bomberman-style game implemented on an Arduino Uno microcontroller. It uses various components such as a joystick, a matrix LED display, and an LCD screen to create an interactive gaming experience. The game involves navigating through a matrix, destroying walls, and strategically placing bombs to clear the terrain.
@@ -83,3 +81,5 @@ The game logic: :game_die:
 - The game score is saved in the Arduino EEPROM memory and can be reset from the menu.
 
 Link to Youtube [here](https://youtu.be/nqE6tAQueuo)
+
+[Setup]: [Photo]("https://github.com/BetJohn/Bomberman-Arduino-Project/blob/main/Setup.jpg")
