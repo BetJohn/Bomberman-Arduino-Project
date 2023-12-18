@@ -1,17 +1,6 @@
 # Arduino Bomberman Game :bomb: :video_game: :joystick: :computer:
 
-![Bomberman Game](//Setup.jpg)
-
-## Table of Contents :bookmark_tabs:
-
-- [Description](#description)
-- [Features](#features)
-- [Hardware Requirements](#hardware-requirements)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Controls](#controls)
-- [Configuration](#configuration)
-- [How it Works](#how-it-works)
+[Setup]: [Photo]("https://github.com/BetJohn/Bomberman-Arduino-Project/blob/main/Setup.jpg")
 
 ## Description :page_facing_up:
 
