@@ -4,13 +4,14 @@
 
 ## Table of Contents :bookmark_tabs:
 
-- [Description](#description)
-- [Features](#features)
-- [Hardware Requirements](#hardware-requirements)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Controls](#controls)
-- [Configuration](#configuration)
+- [Description](##description)
+- [Features](##features)
+- [Hardware Requirements](##hardware-requirements)
+- [Installation](##installation)
+- [How to Play](##how-to-play)
+- [Controls](##controls)
+- [Configuration](##configuration)
+- [How it Works](##how-it-works)
 
 ## Description :page_facing_up:
 
@@ -69,7 +70,7 @@ The Arduino Bomberman Game is a classic Bomberman-style game implemented on an A
 
 The game is implemented using the Arduino Uno microcontroller. The Arduino sketch (bomberman.ino) contains the code for the game logic, which is executed on the Arduino board. The game uses various components, including a joystick, a matrix LED display, and an LCD screen, to create an interactive gaming experience.
 
-The menu logic: :menu:
+The menu logic: :page_with_curl:
 
 - The menu is displayed on the LCD screen.
 - The user can navigate through the menu using the joystick.
