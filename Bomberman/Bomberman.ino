@@ -209,7 +209,7 @@ void setup() {
   playerPosition.col = 3;
   playerPosition.value = 2;
   pinMode(intensityPin, OUTPUT);
-  setInformation();
+  // setInformation();
   getInformations();
   pinMode(pinSW, INPUT_PULLUP);
   sayWelcome();
