@@ -1,17 +1,17 @@
 # Arduino Bomberman Game :bomb: :video_game: :joystick: :computer:
 
-![Bomberman Game](link-to-image)
+![Bomberman Game](//Setup.jpg)
 
 ## Table of Contents :bookmark_tabs:
 
-- [Description](##description)
-- [Features](##features)
-- [Hardware Requirements](##hardware-requirements)
-- [Installation](##installation)
-- [How to Play](##how-to-play)
-- [Controls](##controls)
-- [Configuration](##configuration)
-- [How it Works](##how-it-works)
+- [Description](#description)
+- [Features](#features)
+- [Hardware Requirements](#hardware-requirements)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Controls](#controls)
+- [Configuration](#configuration)
+- [How it Works](#how-it-works)
 
 ## Description :page_facing_up:
 
@@ -93,3 +93,4 @@ The game logic: :game_die:
 - After the game ends, the user can choose to play again or return to the menu.
 - The game score is saved in the Arduino EEPROM memory and can be reset from the menu.
 
+[Back to Top](#table-of-contents)
